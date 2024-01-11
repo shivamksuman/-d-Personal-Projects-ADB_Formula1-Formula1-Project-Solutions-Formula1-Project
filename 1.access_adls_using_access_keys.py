@@ -5,7 +5,7 @@
 # MAGIC 1. List files from demo container
 # MAGIC 1. Read data from circuits.csv file
 
-# COMMAND ----------
+# COMMAND --------
 
 spark.conf.set(
     "fs.azure.account.key.formula1dl.dfs.core.windows.net",
